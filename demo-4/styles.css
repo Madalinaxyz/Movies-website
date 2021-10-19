@@ -1,0 +1,16 @@
+body{
+    min-height:100vh;
+    display:flex;
+    flex-direction:column;
+
+}
+footer{
+    background-color:pink;
+    padding:30 px 15 px;
+    text-align:center;
+    margin-top:auto;
+
+}
+img{
+    width:100%;
+}
